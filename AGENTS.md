@@ -2,7 +2,7 @@
 
 ## Repo Scope
 
-- Owner/escalation: Longbiao for scanner behavior and public claims.
+- Owner/escalation: felixlark for scanner behavior and public claims.
 - This repo owns preflight hazard scanning, rule quality, fixtures, and evidence-backed findings for embodied AI systems.
 - Do not drift into runtime policy-engine claims unless the implementation actually supports them.
 
