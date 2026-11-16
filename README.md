@@ -15,7 +15,7 @@ LilySweep v0 focuses on four practical preflight checks:
 ## Quick Start
 
 ```bash
-cd /Users/longbiao/Projects/lily-sweep
+cd ~/Projects/lily-sweep
 PYTHONPATH=src python3 -m lily_sweep scan examples/unsafe_warehouse_agent
 PYTHONPATH=src python3 -m lily_sweep scan examples/unsafe_warehouse_agent --config examples/unsafe_warehouse_agent/lilysweep.json
 PYTHONPATH=src python3 -m lily_sweep scan examples/unsafe_warehouse_agent --format json --fail-on high
